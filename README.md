@@ -45,7 +45,7 @@
 |  [用十分鐘瞭解 《單晶片、機器人與電子元件》 (Arduino + Raspberry Pi)](10minPiComponents.pdf) |  [SlideShare](http://www.slideshare.net/ccckmit/arduino-raspberry-pi-57222583)  | | | [Facebook](https://www.facebook.com/ccckmit/posts/10153758040986893) | 
 |  [用十分鐘瞭解 《電的歷史》](10minElectronicsHistory.pdf) | [SlideShare](http://www.slideshare.net/ccckmit/ss-57170964)  | | | [Facebook]() | 
 |  [用十分鐘瞭解《線性代數、向量微積分》以及電磁學理論](10minMatrixField.pdf)  |  [SlideShare](http://www.slideshare.net/ccckmit/ss-57144026)  | | | [Facebook](https://www.facebook.com/ccckmit/posts/10153753565976893) | 
-|  [[用十分鐘學會《微積分、工程數學》及其應用](10minWaveMath.pdf) | [SlideShare](http://www.slideshare.net/ccckmit/ss-57088188)  | | | [Facebook](https://www.facebook.com/ccckmit/posts/10153748983326893) | 
+|  [用十分鐘學會《微積分、工程數學》及其應用](10minWaveMath.pdf) | [SlideShare](http://www.slideshare.net/ccckmit/ss-57088188)  | | | [Facebook](https://www.facebook.com/ccckmit/posts/10153748983326893) | 
 |  [用十分鐘看懂《近代科學發展史》](10minSciHistory.pdf)  |  [SlideShare](http://www.slideshare.net/ccckmit/ss-56937501)  | | |  | 
 |  [用十分鐘學會《資料結構、演算法和計算理論》](10minAlgDsCT.pdf)  |  [SlideShare](http://www.slideshare.net/ccckmit/ss-56891871)  | | |  | 
 |  [用十分鐘向 nand2tetris 學會設計《處理器》](10minNand2tetris.pdf)  |  [SlideShare](http://www.slideshare.net/ccckmit/nand2tetris)  | [Double](http://www.slideshare.net/ccckmit/20-nand2tetris) | [YouTube](https://www.youtube.com/watch?v=_5mVRZ0Ii8g) |  | 
